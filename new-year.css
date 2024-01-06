@@ -1,0 +1,38 @@
+.banner{
+  background-image: url(images/banner/banner1.png);  
+  display:;
+  text-align: right;
+  position: top, right;
+}
+.thinks{
+    color: var(--Dark-01, #151414);
+text-align: right;
+font-family: Work Sans;
+font-size: 65px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 525px;
+}
+.failure{
+   
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 1600px;
+    height: 3229px;
+}
+.woman{
+    a;
+}
+.section-last
+
+{
+    background-image: url(images/watch.png);
+}
+.plan{
+    display: flex;
+    width: 1600px;
+height: 3229px;
+background: #FFF;
+padding: 50px;
+}
